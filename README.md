@@ -1,23 +1,21 @@
 # c5-ta30
 
-[Ejercicio 1](https://burnout131.github.io/c5-ta30/Ejercicio 1)
+[Ejercicio 1](https://burnout131.github.io/c5-ta30/Ejercicio1)
 
-[Ejercicio 2](https://burnout131.github.io/c5-ta30/Ejercicio 2)
+[Ejercicio 2](https://burnout131.github.io/c5-ta30/Ejercicio2)
 
-[Ejercicio 12](https://burnout131.github.io/c5-ta29/Ejercicio12/instalaciones.html)
+[Ejercicio 3](https://burnout131.github.io/c5-ta30/Ejercicio3)
 
-[Ejercicio 13](https://burnout131.github.io/c5-ta29/Ejercicio13)
+[Ejercicio 4](https://burnout131.github.io/c5-ta30/Ejercicio4)
 
-[Ejercicio 14](https://burnout131.github.io/c5-ta29/Ejercicio14)
+[Ejercicio 5](https://burnout131.github.io/c5-ta30/Ejercicio5)
 
-[Ejercicio 15](https://burnout131.github.io/c5-ta29/Ejercicio15)
+[Ejercicio 6](https://burnout131.github.io/c5-ta30/Ejercicio6)
 
-[Ejercicio 16](https://burnout131.github.io/c5-ta29/Ejercicio16)
+[Ejercicio 7](https://burnout131.github.io/c5-ta30/Ejercicio7)
 
-[Ejercicio 17](https://burnout131.github.io/c5-ta29/Ejercicio17)
+[Ejercicio 8](https://burnout131.github.io/c5-ta30/Ejercicio8)
 
-[Ejercicio 18](https://burnout131.github.io/c5-ta29/Ejercicio18)
+[Ejercicio 9](https://burnout131.github.io/c5-ta30/Ejercicio9)
 
-[Ejercicio 19](https://burnout131.github.io/c5-ta29/Ejercicio19)
-
-[Ejercicio 20](https://burnout131.github.io/c5-ta29/Ejercicio20)
+[Ejercicio 10](https://burnout131.github.io/c5-ta30/Ejercicio10)
