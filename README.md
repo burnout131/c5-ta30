@@ -1,10 +1,10 @@
 # c5-ta30
 
-[Ejercicio 1](https://burnout131.github.io/c5-ta30/Ejercicio 1)
+[Ejercicio 1](https://burnout131.github.io/c5-ta30/Ejercicio1)
 
-[Ejercicio 2](https://burnout131.github.io/c5-ta30/Ejercicio 2)
+[Ejercicio 2](https://burnout131.github.io/c5-ta30/Ejercicio2)
 
-[Ejercicio 12](https://burnout131.github.io/c5-ta29/Ejercicio12/instalaciones.html)
+[Ejercicio 3](https://burnout131.github.io/c5-ta30/Ejercicio3)
 
 [Ejercicio 13](https://burnout131.github.io/c5-ta29/Ejercicio13)
 
