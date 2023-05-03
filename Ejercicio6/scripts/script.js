@@ -18,7 +18,7 @@ if (numDni <= 0 || numDni > 99999999) {
   if (letraDniCorrecta == letraDniInput) {
     window.alert("La letra indicada SI es correcta");
   } else {
-    window.alert("La letra indicada NO es correcta");
+    window.alert("La letra indicada NO es correcta. En realidad es: "+letraDniCorrecta);
   }
 
 }
